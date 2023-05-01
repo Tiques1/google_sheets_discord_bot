@@ -2,7 +2,7 @@
 [api]
 # your discord bot token
 bottoken = 
-# id of channel, where will sent messages about moderator actions
+# id of channel, where will sent messages about moderator actions from Dyno bot
 punishment_channel = 
 # Dyno bot id
 punishment_bot = 
