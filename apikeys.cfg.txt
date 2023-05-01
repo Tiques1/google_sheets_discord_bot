@@ -1,4 +1,7 @@
+# there will written info about every server, which use this bot. All info add and fill automatically
 [server_id]
+# name of worksheet. Warning: named only in english and don't use spaces
 user_name = 
+# url of google sheet, where will written members list
 sheeturl = 
 
