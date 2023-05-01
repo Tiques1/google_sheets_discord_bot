@@ -1,4 +1,4 @@
-# there will written info about every server, which use this bot. All info add and fill automatically
+# there will written info about every server, which use this bot. All info add and fill automatically through bot commands
 [server_id]
 # name of worksheet. Warning: named only in english and don't use spaces
 user_name = 
