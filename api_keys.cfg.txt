@@ -1,3 +1,4 @@
+# don't change, only add necessary info
 [api]
 # your discord bot token
 bottoken = 
