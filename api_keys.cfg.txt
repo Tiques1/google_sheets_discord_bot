@@ -1,4 +1,7 @@
 [api]
+# your discord bot token
 bottoken = 
+# id of channel, where will sent messages about moderator actions
 punishment_channel = 
+# Dyno bot id
 punishment_bot = 
